@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main(){
-	int a=10,b=24;
+	int a=15,b=24;
 	printf(a+b);
 }
